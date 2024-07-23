@@ -2,4 +2,5 @@ title: Euphony Music Austin
 #logo: 
 description: Organization based in Austin, Texas dedicated to spreading the joy of music and connecting young musicicans throughout the community
 show_downloads: false
-theme: jekyll-theme-minima
+#theme: jekyll-theme-minima
+remote_theme: minima
